@@ -13,7 +13,9 @@ Direction artistique et UI : décors, objets interactifs, logo, menu du jeu.
 ## L'équipe
 
 Laurent Miler - Game design et level design
+
 Augustin De Vita - Développeur
+
 Jessica Komguen - Direction artistique
 
 ![Antman_titre_2_1920x1080-01](https://github.com/user-attachments/assets/19a2d45c-e10f-4b43-9024-d99961a2545b)
