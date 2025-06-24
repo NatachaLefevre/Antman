@@ -1,17 +1,14 @@
 # Antman, l'origine d'un héros
 
 ## Description
-
 Jeu d'aventure et d'énigmes en plateforme 2D mettant en scène le super-héros Antman.
  
 
 ## Mon rôle
-
 Direction artistique et UI : décors, objets interactifs, logo, menu du jeu.
 
  
 ## L'équipe
-
 Laurent Miler - Game design et level design
 
 Augustin De Vita - Développeur
@@ -30,5 +27,4 @@ Jessica Komguen - Direction artistique
 
 
 ## Démo du jeu
-
 https://www.youtube.com/watch?v=Ie6zKffG7k8
